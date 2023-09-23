@@ -1,0 +1,37 @@
+/* .mainn {
+    background-color: rgb(251, 251, 251);
+    padding: 2rem 5rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.mm {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+
+.mainn{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 2rem 5rem;
+    background-color: rgb(255, 255, 255);
+    z-index: 1000;
+}
+
+.mm{
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.497);
+    z-index: 1000;
+}

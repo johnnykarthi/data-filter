@@ -1,0 +1,11 @@
+.inputdata{
+    padding: .7rem;
+    background-color: rgb(233, 233, 233);
+    margin-bottom: 10px;
+}
+
+.data{
+    margin: 0;
+    border: 1px solid rgb(130, 130, 130);
+    padding: 7px;
+}
